@@ -13,7 +13,7 @@ A fictional organization is onboarding a third-party SaaS vendor that will proce
 6. Risk Acceptance & Approval
 7. Ongoing Monitoring & Reassessment
 8. Vendor Offboarding
-9. 
+   
 10. ## Portfolio Deliverables
 
 - Vendor Criticality Assessment
